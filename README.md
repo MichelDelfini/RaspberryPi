@@ -13,3 +13,12 @@ Raspberry Pi aufsetzen | raspberrypiaufsetzen |
 
 
 ## Everything about the RaspberryPi
+In this repository, various topics are covered around the Raspberry Pi.
+
+### Summary
+
+subjects | document | notes
+-------- | -------- | -----
+ |  | 
+
+
